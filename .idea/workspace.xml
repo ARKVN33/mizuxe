@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="618fb459-3c2a-4f40-9b2a-7e926b878adb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XyvCRae3tzIf1niUg6JCdPm4su" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mizuxe/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="618fb459-3c2a-4f40-9b2a-7e926b878adb" name="Default Changelist" comment="" />
+      <created>1582031020968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582031020968</updated>
+      <workItem from="1582031022510" duration="4706000" />
+      <workItem from="1582036260023" duration="6544000" />
+      <workItem from="1582043638722" duration="5000" />
+      <workItem from="1582043684544" duration="2943000" />
+      <workItem from="1582092334720" duration="4259000" />
+      <workItem from="1582110535251" duration="10180000" />
+      <workItem from="1582180603335" duration="7297000" />
+      <workItem from="1582200946218" duration="136000" />
+      <workItem from="1582201097624" duration="718000" />
+      <workItem from="1582209747377" duration="112000" />
+      <workItem from="1582210252658" duration="607000" />
+      <workItem from="1582558125735" duration="904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="281" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582036313542">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="384" y="281" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582036313542" />
+    <state x="757" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582092345504">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="757" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582092345504" />
+    <state width="1769" height="343" key="GridCell.Tab.0.bottom" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.0.center" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.0.left" timestamp="1582043128995">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128995" />
+    <state width="1769" height="343" key="GridCell.Tab.0.right" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.1.bottom" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.1.center" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.1.left" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.1.right" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.2.bottom" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.2.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.2.center" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.2.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.2.left" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.2.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state width="1769" height="343" key="GridCell.Tab.2.right" timestamp="1582043128996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1769" height="343" key="GridCell.Tab.2.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582043128996" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1582042326971">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582042326971" />
+    <state x="357" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582209803366">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="357" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582209803366" />
+    <state x="321" y="136" width="590" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582185582151">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="321" y="136" width="590" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582185582151" />
+    <state x="638" y="264" width="868" height="646" key="find.popup" timestamp="1582187112890">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="264" width="868" height="646" key="find.popup/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582187112890" />
+  </component>
+</project>

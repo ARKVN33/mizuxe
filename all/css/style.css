@@ -1,0 +1,11 @@
+@import url(../../basic/css/fontiran.css);
+body {
+    font-family: IRANSans !important;
+    direction: rtl;
+    text-align: right;
+    background-color: #444;
+}
+
+h1, h2, h3, h4, h5, h6, input, textarea {
+    font-family: IRANSans !important;
+}

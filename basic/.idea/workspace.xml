@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5c295ed-d8bf-4932-93f0-3cdded6c624c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YfTNCv5R6xChjYNC8NdgUaFQNF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/basic/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c295ed-d8bf-4932-93f0-3cdded6c624c" name="Default Changelist" comment="" />
+      <created>1583332606441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583332606441</updated>
+      <workItem from="1583332607907" duration="836000" />
+      <workItem from="1583346552834" duration="346000" />
+      <workItem from="1583574789013" duration="416000" />
+      <workItem from="1583575220577" duration="1037000" />
+      <workItem from="1583591434015" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1583591503779">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1583591503779" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583575204073">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583575204073" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583591434378">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1583591434378" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583575220559" />
+  </component>
+</project>
